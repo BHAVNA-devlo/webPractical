@@ -32,7 +32,7 @@ Fit-Club/
 ## 🚀 How to Run the Project
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/Fit-Club.git
+   git clone https://github.com/bhavna-devlo/webPractical.git
 🎯 Project Objective
 
 The objective of this project is to practice front-end development by building a static gym website using HTML and CSS, focusing on layout design, responsiveness, and visual appeal.
